@@ -1,1 +1,1 @@
-# solution_assets
+Please visit our solution articles at: https://leetcode.com/articles/
